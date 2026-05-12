@@ -9,6 +9,10 @@ The pipeline follows a standard data engineering workflow:
 **Ingestion → Transformation → Storage → Serving**
 
 ---
+##DATA SOURCE
+https://www.kaggle.com/datasets/aadigupta1601/lapd-crime-data-2020-2024
+
+
 
 ## 🎯 Objectives
 
